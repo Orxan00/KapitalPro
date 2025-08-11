@@ -1,0 +1,164 @@
+{
+  "hero": {
+    "title": "Build Your Future",
+    "subtitle": "Investment",
+    "description": "Earn daily income on our trusted investment platform. Choose from various packages and start earning passive income.",
+    "cta": "Start Now →"
+  },
+  "investmentHero": {
+    "title": "Start Now and Earn Income",
+    "subtitle": "Join thousands of investors who trust our platform and start earning daily income.",
+    "stats": {
+      "activeUsers": "Active Users",
+      "paidIncome": "Paid Income",
+      "satisfaction": "Satisfaction Level"
+    }
+  },
+  "status": {
+    "security": {
+      "title": "Secure",
+      "description": "SSL encryption and secure payment system"
+    },
+    "income": {
+      "title": "High Income",
+      "description": "Up to 10% daily fixed income"
+    },
+    "users": {
+      "title": "25,000+ Users",
+      "description": "Choice of thousands of satisfied investors"
+    }
+  },
+  "pricing": {
+    "title": "Investment Packages",
+    "subtitle": "Choose the package that suits your needs and start earning income",
+    "mostPopular": "Elite subscription",
+    "minimum": "minimum",
+    "dailyReturn": "Daily {{return}} return",
+    "duration": "Duration",
+    "estimatedReturn": "Estimated return",
+    "selectPackage": "Select Package",
+    "starter": {
+      "name": "Starter",
+      "duration": "45 days",
+      "features": {
+        "dailyReturn": "Daily 1.5% return",
+        "duration": "45 days duration",
+        "support": "24/7 support",
+        "reinvest": "Automatic reinvest"
+      }
+    },
+    "basic": {
+      "name": "Basic",
+      "duration": "45 days",
+      "features": {
+        "dailyReturn": "Daily 2.0% return",
+        "duration": "45 days duration",
+        "support": "VIP support",
+        "reinvest": "Automatic reinvest",
+        "bonus": "Bonus income"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "duration": "45 days",
+      "features": {
+        "dailyReturn": "Daily 10% return",
+        "duration": "45 days duration",
+        "support": "Premium support",
+        "reinvest": "Automatic reinvest",
+        "bonus": "Bonus income",
+        "referral": "Referral bonus"
+      }
+    },
+    "elite": {
+      "name": "Elite",
+      "duration": "20 days",
+      "features": {
+        "dailyReturn": "Daily 3.0% return",
+        "duration": "20 days duration",
+        "support": "Elite support",
+        "reinvest": "Automatic reinvest",
+        "bonus": "Premium bonus",
+        "referral": "High referral bonus"
+      }
+    },
+    "vip": {
+      "name": "VIP",
+      "duration": "15 days",
+      "features": {
+        "dailyReturn": "Daily 4.0% return",
+        "duration": "15 days duration",
+        "support": "VIP support",
+        "reinvest": "Automatic reinvest",
+        "bonus": "Maximum bonus",
+        "referral": "Maximum referral bonus"
+      }
+    }
+  },
+  "platform": {
+    "title": "Why Choose Us?",
+    "subtitle": "Everything you need for a reliable, secure, and profitable investment experience",
+    "features": {
+      "automaticPayments": {
+        "title": "Automatic Payments",
+        "description": "Receive your income automatically to your account"
+      },
+      "fastWithdrawal": {
+        "title": "Fast Withdrawal",
+        "description": "Withdraw your income whenever you want"
+      },
+      "sslSecurity": {
+        "title": "SSL Security",
+        "description": "Your data is protected with 256-bit SSL"
+      },
+      "referralSystem": {
+        "title": "Referral System",
+        "description": "Invite your friends and earn bonuses"
+      },
+      "mobileFriendly": {
+        "title": "Mobile Friendly",
+        "description": "Works perfectly on all devices"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Always accessible customer service"
+      },
+      "realTimeStats": {
+        "title": "Real-time Statistics",
+        "description": "Track live income and statistics"
+      },
+      "multiplePayments": {
+        "title": "Multiple Payment Methods",
+        "description": "Card, bank transfer and crypto"
+      }
+    }
+  },
+  "footer": {
+    "description": "Reliable investment platform. Build your future with us.",
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "team": "Team",
+      "careers": "Careers",
+      "news": "News"
+    },
+    "support": {
+      "title": "Support",
+      "helpCenter": "Help Center",
+      "guides": "Guides",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "contact": {
+      "title": "Contact",
+      "technicalSupport": "Technical Support"
+    }
+  },
+  "nav": {
+    "packages": "Packages",
+    "features": "Features",
+    "about": "About",
+    "login": "Login",
+    "register": "Register"
+  }
+} 

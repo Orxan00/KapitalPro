@@ -1,0 +1,164 @@
+{
+  "hero": {
+    "title": "Gələcəyinizi",
+    "subtitle": "İnvestisiya",
+    "description": "Güvənilir investisiya platformamızda günlük gəlir əldə edin. Müxtəlif paketlər arasından seçim edin və passiv gəlir qazanmağa başlayın.",
+    "cta": "İndi Başlayın →"
+  },
+  "investmentHero": {
+    "title": "İndi Başlayın və Gəlir Əldə Edin",
+    "subtitle": "Minlərlə investorun güvəndiyi platformamızda yerinizi alın və günlük gəlir qazanmağa başlayın.",
+    "stats": {
+      "activeUsers": "Aktiv İstifadəçi",
+      "paidIncome": "Ödənilmiş Gəlir",
+      "satisfaction": "Məmnunluq Səviyyəsi"
+    }
+  },
+  "status": {
+    "security": {
+      "title": "Təhlükəsiz",
+      "description": "SSL şifrələməsi və təhlükəsiz ödəniş sistemi"
+    },
+    "income": {
+      "title": "Yüksək Gəlir",
+      "description": "Günlük 10%-ə qədər sabit gəlir"
+    },
+    "users": {
+      "title": "25,000+ İstifadəçi",
+      "description": "Minlərlə məmnun investorun seçimi"
+    }
+  },
+  "pricing": {
+    "title": "İnvestisiya Paketləri",
+    "subtitle": "Ehtiyaclarınıza uyğun paketi seçin və gəlir əldə etməyə başlayın",
+    "mostPopular": "Ən Populyar",
+    "minimum": "minimum",
+    "dailyReturn": "Günlük {{return}} gəlir",
+    "duration": "Müddət",
+    "estimatedReturn": "Təxmini gəlir",
+    "selectPackage": "Paketi Seç",
+    "starter": {
+      "name": "Başlanğıc",
+      "duration": "45 gün",
+      "features": {
+        "dailyReturn": "Günlük 1.5% gəlir",
+        "duration": "45 gün müddət",
+        "support": "24/7 dəstək",
+        "reinvest": "Avtomatik reinvest"
+      }
+    },
+    "basic": {
+      "name": "Əsas",
+      "duration": "45 gün",
+      "features": {
+        "dailyReturn": "Günlük 2.0% gəlir",
+        "duration": "45 gün müddət",
+        "support": "VIP dəstək",
+        "reinvest": "Avtomatik reinvest",
+        "bonus": "Bonus gəlir"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "duration": "45 gün",
+      "features": {
+        "dailyReturn": "Günlük 10% gəlir",
+        "duration": "45 gün müddət",
+        "support": "Premium dəstək",
+        "reinvest": "Avtomatik reinvest",
+        "bonus": "Bonus gəlir",
+        "referral": "Referral bonusu"
+      }
+    },
+    "elite": {
+      "name": "Elit",
+      "duration": "20 gün",
+      "features": {
+        "dailyReturn": "Günlük 3.0% gəlir",
+        "duration": "20 gün müddət",
+        "support": "Elit dəstək",
+        "reinvest": "Avtomatik reinvest",
+        "bonus": "Premium bonus",
+        "referral": "Yüksək referral bonusu"
+      }
+    },
+    "vip": {
+      "name": "VIP",
+      "duration": "15 gün",
+      "features": {
+        "dailyReturn": "Günlük 4.0% gəlir",
+        "duration": "15 gün müddət",
+        "support": "VIP dəstək",
+        "reinvest": "Avtomatik reinvest",
+        "bonus": "Maksimum bonus",
+        "referral": "Maksimum referral bonusu"
+      }
+    }
+  },
+  "platform": {
+    "title": "Niyə Bizi Seçməlisiniz?",
+    "subtitle": "Güvənilir, təhlükəsiz və gəlirli investisiya təcrübəsi üçün lazım olan hər şey",
+    "features": {
+      "automaticPayments": {
+        "title": "Avtomatik Ödənişlər",
+        "description": "Gəlirinizi avtomatik olaraq hesabınıza alın"
+      },
+      "fastWithdrawal": {
+        "title": "Sürətli Çıxarış",
+        "description": "Gəlirinizi istədiyiniz zaman çıxarın"
+      },
+      "sslSecurity": {
+        "title": "SSL Təhlükəsizlik",
+        "description": "Məlumatlarınız 256-bit SSL ilə qorunur"
+      },
+      "referralSystem": {
+        "title": "Referral Sistemi",
+        "description": "Dostlarınızı dəvət edin və bonus qazanın"
+      },
+      "mobileFriendly": {
+        "title": "Mobil Uyğun",
+        "description": "Bütün cihazlarda mükəmməl işləyir"
+      },
+      "support": {
+        "title": "24/7 Dəstək",
+        "description": "Hər zaman əlçatan müştəri xidməti"
+      },
+      "realTimeStats": {
+        "title": "Real-time Statistika",
+        "description": "Canlı gəlir və statistika izləyin"
+      },
+      "multiplePayments": {
+        "title": "Çoxlu Ödəniş Yolları",
+        "description": "Kart, bank köçürməsi və crypto"
+      }
+    }
+  },
+  "footer": {
+    "description": "Güvənilir investisiya platformu. Gələcəyinizi bizimlə qurun.",
+    "company": {
+      "title": "Şirkət",
+      "about": "Haqqımızda",
+      "team": "Komanda",
+      "careers": "Karyera",
+      "news": "Xəbərlər"
+    },
+    "support": {
+      "title": "Dəstək",
+      "helpCenter": "Yardım Mərkəzi",
+      "guides": "Təlimatlar",
+      "faq": "FAQ",
+      "contact": "Əlaqə"
+    },
+    "contact": {
+      "title": "Əlaqə",
+      "technicalSupport": "Texniki Dəstək"
+    }
+  },
+  "nav": {
+    "packages": "Paketlər",
+    "features": "Xüsusiyyətlər",
+    "about": "Haqqında",
+    "login": "Giriş",
+    "register": "Qeydiyyat"
+  }
+} 
