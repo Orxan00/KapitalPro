@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Gələcəyinizi",
-    "subtitle": "İnvestisiya",
+    "subtitle": "İnvestisiyalarla qurun",
     "description": "Güvənilir investisiya platformamızda günlük gəlir əldə edin. Müxtəlif paketlər arasından seçim edin və passiv gəlir qazanmağa başlayın.",
     "cta": "İndi Başlayın →"
   },
@@ -161,4 +161,5 @@
     "login": "Giriş",
     "register": "Qeydiyyat"
   }
+
 } 
