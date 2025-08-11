@@ -1,0 +1,6 @@
+pytelegrambotapi
+python-dotenv
+aiohttp
+firebase-admin
+google-cloud-firestore
+
