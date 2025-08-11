@@ -1,0 +1,13 @@
+{
+  "name": "investment-miniapp-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for managing Firebase data",
+  "main": "addNetworks.js",
+  "scripts": {
+    "add-networks": "node addNetworks.js"
+  },
+  "dependencies": {
+    "firebase": "^10.7.0",
+    "dotenv": "^16.3.1"
+  }
+} 
